@@ -1,6 +1,11 @@
 # Introduction
 C# Client for Lenddo Services
 
+# Release Notes:
+2.0.0 
+	- Updated project type to use a Standard Class Library
+	- Use Namespace Lenddo.SDK instead of Lenddo.API
+
 This client helps expose Lenddo services in an easy-to-implement manner for C#. Currently this SDK exposes two primary features of the Lenddo platform:
 ## Data Retrieval
 Get _verification_, _decision_, and _score_ from Lenddo.
