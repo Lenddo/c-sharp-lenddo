@@ -2,10 +2,12 @@
 This is the LENDDO SDK for for windows platforms. Use this to utilize available LENDDO services easily. This is developed using the .NET Standard 1.3 version for maximum compatibility with the minimum required functions in place.
 
 # Release Notes:
+2.5.0
+	* Added ApplicationFeatures functionality
+	* Added ApplicationMultipleScores functionality
 2.4.0
 	* Added function for sending for PriorityData (works for partnerscripts that allows it)
 	* fixed incorrect versioning numbers
-	* updated readme (this)
 2.3.0
 	* Added feature for generating Configured Sessions (Short URLs)
 2.2.0
