@@ -2,6 +2,14 @@
 This is the LENDDO SDK for for windows platforms. Use this to utilize available LENDDO services easily. This is developed using the .NET Standard 1.3 version for maximum compatibility with the minimum required functions in place.
 
 # Release Notes:
+### 2.6.0
+* Added ApplicationsClient.GetApplications functionality
+* Added ApplicationsClient.GetApplicationData functionality
+* Added ApplicationsClient.GetApplicationDocuments functionality
+* Updated to use .NET Standard 2.0
+* Enhancements in making code more efficient. Most of this overhauls will appear in the next revision 3.0
+
+# Release Notes:
 ### 2.5.0
 * Added ApplicationFeatures functionality
 * Added ApplicationMultipleScores functionality
