@@ -1,5 +1,6 @@
 # Introduction
 This is the LENDDO SDK for for windows platforms. Use this to utilize available LENDDO services easily. This is developed using the .NET Standard 1.3 version for maximum compatibility with the minimum required functions in place.
+The library is also availablein Nuget (https://www.nuget.org/packages/LenddoSDK)
 
 # Release Notes:
 ### 2.6.0
