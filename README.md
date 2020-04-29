@@ -3,6 +3,9 @@ This is the LENDDO SDK for for windows platforms. Use this to utilize available 
 The library is also availablein Nuget (https://www.nuget.org/packages/LenddoSDK)
 
 # Release Notes:
+### 2.8.0
+* Added an option to add custom URL in ApplicationsClient
+
 ### 2.6.0
 * Added ApplicationsClient.GetApplications functionality
 * Added ApplicationsClient.GetApplicationData functionality
@@ -10,7 +13,6 @@ The library is also availablein Nuget (https://www.nuget.org/packages/LenddoSDK)
 * Updated to use .NET Standard 2.0
 * Enhancements in making code more efficient. Most of this overhauls will appear in the next revision 3.0
 
-# Release Notes:
 ### 2.5.0
 * Added ApplicationFeatures functionality
 * Added ApplicationMultipleScores functionality
